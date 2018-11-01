@@ -1,0 +1,82 @@
+h1 { color: #111; font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 2em; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; 
+	padding-top: 1em;}
+ p:first-letter{
+               text-transform: uppercase;
+          }
+        .about {
+        color: #424242;
+         font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+  letter-spacing:0.1em;
+ text-align:center;
+ margin: 30px auto;
+ line-height: 145%;
+ font-size: 14pt;
+/*  font-variant: small-caps; */
+ padding-left: 25em;
+  padding-right: 25em;
+        }
+ 
+TWITTER HEADLINE
+ 
+        font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+ font-style: italic;
+        color: #424242;}
+        
+        
+        /* navbar text style */
+        .logged {
+     	color: #d04764;
+     	 font-family: 'Lobster', cursive;
+     	  font-size: 36px; font-weight: normal;
+     	   line-height: 48px; margin: 0 0 18px;
+     	    text-shadow: 1px 0 0 #fff;
+        }
+        
+        
+ 
+        a { font-style: normal;
+ font-variant: small-caps;
+ text-decoration: none;
+ color: #afafaf;
+        font-size: 1em;
+        }
+
+.grounds {
+font-family:georgia, serif;
+   color:#3B200F;
+   font-size:16px;
+  
+   line-height:125%;
+   text-align:center;
+}
+
+#todays-table {
+    margin-left: 15.5em;
+     margin-right: 16em;
+}
+
+.navbar{
+	background-color: #359735 !important;/* \\newww#81ad48 */
+}
+
+a{color:#fdfcb2;}
+
+.nav > li > a:hover{ background-color:#81ad48; display: block;}
+
+body{
+ 	background-image: url(/../resources/newgreen.png);
+
+    height: 100%; 
+	width:100%;
+
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.ground_name{
+	font-size:20px;
+	
+}
+
+
